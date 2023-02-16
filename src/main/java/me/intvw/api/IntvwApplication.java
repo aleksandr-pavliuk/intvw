@@ -1,4 +1,4 @@
-package me.intvw;
+package me.intvw.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
